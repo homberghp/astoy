@@ -1,0 +1,14 @@
+{
+    "name": "Pieter van den Hombergh {@code <pieter.van.den.hombergh@gmail.com>}",
+
+  "title": "Show All Nodes",
+  "type": "VULNERABILITY",
+  "status": "ready",
+  "remediation": {
+    "func": "Constant\/Issue",
+    "constantCost": "5min"
+  },
+  "tags": [
+  ],
+  "defaultSeverity": "Minor"
+}
